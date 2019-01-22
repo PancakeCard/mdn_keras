@@ -8,9 +8,9 @@ mdn-keras为参照上述代码用keras实现，注意其中MDN的隐藏层部分
 
 
 
-![xixi](image\普通N对一.png)
+![xixi](image/普通N对一.png)
 
-![xixi](image\普通一对N.png)
+![xixi](image/普通一对N.png)
 
-![xixi](image\MDN.png)
+![xixi](image/MDN.png)
 
